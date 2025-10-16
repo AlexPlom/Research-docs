@@ -43,6 +43,22 @@ Provides the actual intelligence — LangChain sends prompts here to get respons
 - 🧠 OpenAI / Anthropic / Claude / Gemini APIs – cloud-hosted LLMs with better reasoning & context.
 - 🧩 Hugging Face Text Generation Inference (TGI) – scalable open-source LLM serving backend.
 
+
+## 📋 Spec Kit
+
+- Type: Spec-driven development toolkit & CLI.
+- What it does:
+    Keeps AI agents anchored to a shared specification, generates implementation plans/tasks, and issues "/speckit.*" commands that can execute code edits.
+    Use in AI stack:
+    Adds governance and repeatability to Copilot, Claude, or Gemini coding sessions - specs, plans, and code stay aligned.
+
+#### 🔁 Alternatives:
+
+- 🖱️ Cursor playbooks - IDE-native guardrails around agent prompts.
+- 🤖 aicoz DevLoop - spec-first automation for multi-agent delivery.
+- 🟠 Amazon Kira - Bedrock-focused spec workflows with similar governance goals.
+- 📝 Manual PRDs + conventional prompting - lightweight but relies on humans to enforce consistency.
+
 ## 🪵 PineconeDB
 
 - Type: Managed vector database

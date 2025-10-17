@@ -13,4 +13,4 @@ Notes and references focused on current AI research.
 ## Spec-Driven Development
 Working notes on specification-first workflows that guide AI coding tools from intent to implementation.
 
-- [Spec Kit Overview](Spec-Driven Development/Spec Kit/README.md) - GitHub's SDD toolkit with install steps, core commands, and learning resources.
+- [Spec Kit Overview](Spec-Driven%20Development/Spec%20Kit/README.md) - GitHub's SDD toolkit with install steps, core commands, and learning resources.
